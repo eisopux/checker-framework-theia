@@ -1,3 +1,5 @@
 dist/
 node_modules/
 *.theia
+lsp4xml/org.eclipse.lsp4xml-all.jar
+yarn.lock
